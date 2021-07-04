@@ -1,8 +1,6 @@
-install node_modules: open terminal "npm i"
+1, "npm i"
 
-run project
+2, "npm run electron"
 
-1, "npm run electron"
-
-2, open new terminal "npm start"
+3, open new terminal "npm start"
 
