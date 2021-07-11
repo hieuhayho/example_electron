@@ -1,8 +1,5 @@
 1, "npm i"
-
-2, "npm run electron"
-
-3, open new terminal "npm run buildmain"
-
+2, open new terminal "npm run buildmain"
+3, "npm run electron"
 4, "npm start"
 
